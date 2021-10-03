@@ -3,3 +3,5 @@ in a topMNC company
 package is 10 LPA
 
 joining bonus is 50,000
+
+desgination ; delivery department of software
