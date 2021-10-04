@@ -7,3 +7,7 @@ joining bonus is 50,000
 desgination ; delivery department of software
 
 git merge
+
+git rebase
+
+
